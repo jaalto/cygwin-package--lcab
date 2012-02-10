@@ -1,0 +1,2 @@
+tag1: lcab
+  http://packages.debian.org/unstable/lcab  pregexp:orig.tar.gz file:lcab_1.0b12.orig.tar.gz new: x:

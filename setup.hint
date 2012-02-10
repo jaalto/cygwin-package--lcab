@@ -1,0 +1,6 @@
+sdesc: "Create cabinet *.cab archives"
+ldesc: "Create cabinet (.cab) archive from a set of input files. CAB format
+represents the Microsoft Windows compressed archive format. It is used
+for compression and digital signing by a variety of Microsoft
+installation programs"
+category: Utils
